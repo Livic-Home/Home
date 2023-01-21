@@ -9,7 +9,7 @@ body {
     background-color: rgb(255, 255, 255);
     overflow-x: hidden;
     /* display: grid; */
-    background: url(archivos/top-view-fabric-texture-background.jpg);
+    background: url(archivos/fondo.jpg);
     background-size: cover;
 
 }
@@ -61,7 +61,7 @@ body {
     max-height: 900px;
     min-height: 700px;
     height: 90vh;
-    background-color: #ecd6ae1a;
+    background-color: #e8cc97ac;
     border-radius: 20px;
     display: grid; 
     backdrop-filter: blur(2px);
