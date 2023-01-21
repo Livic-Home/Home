@@ -59,8 +59,8 @@ body {
     max-width: 500px;
     min-width: 374px;
     max-height: 900px;
-    min-height: 700px;
-    height: 90vh;
+    min-height: 600px;
+    height: 80vh;
     background-color: #f6e8be7d;
     border-radius: 20px;
     display: grid; 
