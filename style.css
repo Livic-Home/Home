@@ -9,7 +9,8 @@ body {
     background-color: rgb(255, 255, 255);
     overflow-x: hidden;
     /* display: grid; */
-    background: url(archivos/fondo.jpg);
+    background: url(archivos/fondo\ 3.jpg);
+    
     background-size: cover;
 
 }
@@ -61,7 +62,7 @@ body {
     max-height: 900px;
     min-height: 600px;
     height: 80vh;
-    background-color: #f6e8be7d;
+    background-color: #f2f6be3a;
     border-radius: 20px;
     display: grid; 
     backdrop-filter: blur(2px);
