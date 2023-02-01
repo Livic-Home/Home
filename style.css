@@ -176,6 +176,8 @@ a {
     background-color: var(--colorcard); 
     border-radius: 20px;
     box-shadow: 0 0 50px #231123;
+    border-top: 1px solid #f0e6df;
+    border-left: 1px solid #f0e6df;
     grid-template: 
     "logo logo logo" auto
     "titulo-1 titulo-1 titulo-1" auto
